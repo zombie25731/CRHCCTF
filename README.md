@@ -1,5 +1,5 @@
 # CRHCCTF
 
 # reverse 
-Spot_the_Anomaly
-hahaha
+- Spot_the_Anomaly
+- hahaha
